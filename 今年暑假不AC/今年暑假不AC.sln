@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "今年暑假不AC", "今年暑假不AC.vcxproj", "{8524701E-ED79-420E-8395-E6610FCAD990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Debug|x64.ActiveCfg = Debug|x64
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Debug|x64.Build.0 = Debug|x64
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Debug|x86.ActiveCfg = Debug|Win32
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Debug|x86.Build.0 = Debug|Win32
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Release|x64.ActiveCfg = Release|x64
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Release|x64.Build.0 = Release|x64
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Release|x86.ActiveCfg = Release|Win32
+		{8524701E-ED79-420E-8395-E6610FCAD990}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0685E6D-34EF-4E36-8796-1D285F9A9A8A}
+	EndGlobalSection
+EndGlobal
